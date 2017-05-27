@@ -1,4 +1,4 @@
-#MenuTitle: G_LatToUnicode
+#MenuTitle: Goegian-ASCII-to-UNICODE
 # -*- coding: utf-8 -*-
 __doc__="""
 Converts glyphs from AXt Encoding to modern Unicode.
